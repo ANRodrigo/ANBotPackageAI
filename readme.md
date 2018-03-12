@@ -1,0 +1,2 @@
+# ANBotPackageAI
+Template of Bot
